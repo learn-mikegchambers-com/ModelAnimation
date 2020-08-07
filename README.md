@@ -1,6 +1,8 @@
 # ModelAnimation
 Render animated network diagrams from (simple) TensorFlow models.
 
+This code was initially developed to create renders and animations for an AWS Machine Learning Specialty Certification (MLS-C01) course.  You can find that course here: https://learn.mikegchambers.com/p/aws-machine-learning-specialty-certification-course
+
 This is an early stage commit.  Documentation is sparse. 
 
 When calling `create_animation`, the options are as follows:
