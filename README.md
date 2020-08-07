@@ -1,7 +1,7 @@
 # ModelAnimation
 Render animated network diagrams from (simple) TensorFlow models.
 
-This is an early stage commit.  Documentaiton is sparse. 
+This is an early stage commit.  Documentation is sparse. 
 
 When calling `create_animation`, the options are as follows:
 
