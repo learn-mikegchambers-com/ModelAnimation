@@ -5,7 +5,6 @@ This is an early stage commit.  Documentaiton is sparse.
 
 When calling `create_animation`, the options are as follows:
 
-|-----------|------------|
 | Option    | Default     |
 |-----------|------------|
 |margin| 200|
@@ -26,6 +25,5 @@ When calling `create_animation`, the options are as follows:
 |gif| False|
 |gif_name| 'animation.gif'|
 |fps| 5 |
-|-----------|------------|
 
 See the example notebook to get you going.  More docs in the future...
